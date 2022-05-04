@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\resume"
+		},
+		{
+			"path": "..\\..\\科研\\4.BiFTVis\\BiFTVis\\BiFTVis"
+		},
+		{
+			"path": "H:\\项目\\气动热机器学习\\code\\HeatFluxAIModel"
+		},
+		{
+			"path": "..\\..\\科研\\3.mswap专利\\mswap项目\\testParallelRender"
+		},
+		{
+			"path": "..\\..\\科研\\4.BiFTVis\\BiFTVis\\BiFTVis\\otherCode\\FeatureTracking"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resume"
+	}
+}

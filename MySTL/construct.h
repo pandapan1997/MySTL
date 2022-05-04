@@ -1,6 +1,6 @@
 #ifndef MYSTL_CONSTRUCT_H_
 #define MYSTL_CONSTRUCT_H_
-
+#define N 1000
 #include <new>
 
 namespace mystl 

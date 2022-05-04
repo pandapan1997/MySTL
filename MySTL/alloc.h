@@ -2,6 +2,7 @@
 #define MYSTL_ALLOCATOR_H_
 
 /*
+panda更新了文件
 如果分配的区块够大，超过128bytes时，则采用一级配置器进行空间分配。
 否则，采用二级配置器进行分配。
 二级配置器采用内存池（free-lists)进行空间区块的管理。
@@ -15,6 +16,7 @@
 //c++标准规范下的c头文件（无扩展名）
 #include <new>
 #include <cstdio>
+#include <cstdlib>
 
 namespace mystl    //命名空间: 建立一些互相分隔的作用域，把一些全局实体分隔开来。
 {
